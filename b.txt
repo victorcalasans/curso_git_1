@@ -1,3 +1,6 @@
 Atualização do terminal!
 Atualização 2
 Atualização 4
+
+
+Esta é a função 1.1
